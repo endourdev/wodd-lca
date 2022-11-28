@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [My Site](https://github.com/fofhgit/fofhgit.github.io)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/fofhgit?tab=re](https://github.com/fofhgit?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/fofhgit?tab=repositories)
 
 - 💬 Ask me about **ElectronJs**
 
