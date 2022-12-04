@@ -1,24 +1,17 @@
-<h1 align="center">Hi 👋, I'm Fofh</h1>
-<h3 align="center">A young developer from France</h3>
-
-- 🔭 I’m currently working on [FootBall Tracker App](https://github.com/football-tracker)
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on [Google](https://github.com/google)
-
-- 🤝 I’m looking for help with [Football Tracker App](https://github.com/football-tracker)
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/fofhgit?tab=repositories)
-
-- 💬 Ask me about **ElectronJs**
-
-- 📫 How to reach me **ouaoudamohamed448@gmail.com**
-
-- ⚡ Fun fact **I think you are beatiful**
-
-<p align="left">
+<h1 align="center">Hello! 👋</h1>
+<p align="center">
+i'm <b>Fofh</b>, french developer
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></a> </p>
+<h2 align="center">🎨 My skills </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<div align="center">
+<p align="center">
+</p>
+<h2 align="center"> Discord! </h2>
+  <h1>DarkWodd#7503</h1>
+</div>
+<p opacity="0.3">By <a href="https://github.com/UnTanukii">Tanukii</a> And <a href="https://github.com/StevenTedYt">StevenTed</a></</p>
