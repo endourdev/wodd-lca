@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fofh</h1>
 <h3 align="center">A young developer from France</h3>
 
-- 🔭 I’m currently working on [Fatality Bot](https://github.com/fofhgit/fatality-bot)
+- 🔭 I’m currently working on [FootBall Tracker App](https://github.com/football-tracker)
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on [Google](https://github.com/google)
 
-- 🤝 I’m looking for help with [My Site](https://github.com/fofhgit/fofhgit.github.io)
+- 🤝 I’m looking for help with [Football Tracker App](https://github.com/football-tracker)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/fofhgit?tab=repositories)
 
