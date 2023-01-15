@@ -12,6 +12,6 @@ i'm <b>Fofh</b>, french developer
 <p align="center">
 </p>
 <h2 align="center"> Discord! </h2>
-  <h1>DarkWodd#7503</h1>
+  <h1>Wodd#0001</h1>
 </div>
 <p opacity="0.3">By <a href="https://github.com/UnTanukii">Tanukii</a> And <a href="https://github.com/StevenTedYt">StevenTed</a></</p>
