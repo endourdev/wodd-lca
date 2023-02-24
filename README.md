@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ElectronJs**
 
-- 📫 How to reach me **offwodd@gmail.com**
+- 📫 How to reach me **wodd@lcagames.com**
 
 - ⚡ Fun fact **I think you are beatiful**
 
